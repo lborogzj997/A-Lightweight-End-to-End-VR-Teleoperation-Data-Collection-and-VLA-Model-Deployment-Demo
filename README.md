@@ -18,6 +18,7 @@ This project is a hands-on exploration of **Vision-Language-Action (VLA)** archi
 ## Demo Videos
 
 VR APP
+
 https://github.com/user-attachments/assets/23806e4e-4318-4ccd-b5cc-56ed6c962815
 
 
