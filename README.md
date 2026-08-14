@@ -2,7 +2,7 @@
 
 > **Full-stack dual-arm VR teleoperation, data collection, and VLA deployment pipeline powered by [LeRobot](https://github.com/huggingface/lerobot).**
 
-This project is a hands-on exploration of **Vision-Language-Action (VLA)** architectures for dual-arm manipulation. It features a **custom Unity VR app**, an **in-house dual-arm controller powered by Pinocchio**, and a lightweight **ACT** policy deployment pipeline via LeRobot.
+This project is a hands-on exploration of **Vision-Language-Action (VLA)** architectures for dual-arm manipulation. It features a **custom Unity VR app**, a controller powered by Pinocchio**, and a lightweight **ACT** policy deployment pipeline via LeRobot.
 
 ---
 
