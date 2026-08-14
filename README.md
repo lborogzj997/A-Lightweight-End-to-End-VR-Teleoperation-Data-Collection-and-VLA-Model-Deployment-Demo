@@ -22,3 +22,10 @@ This project is a hands-on exploration of **Vision-Language-Action (VLA)** archi
                                                  │ (Cartesian/Joint Control)
                                                  ▼
 [ Dual-Arm Robot / Sim ] <──(Closed-Loop)─── [ LeRobot (Lightweight ACT) ]
+
+
+
+
+https://github.com/user-attachments/assets/23806e4e-4318-4ccd-b5cc-56ed6c962815
+
+
