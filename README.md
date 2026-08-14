@@ -19,16 +19,6 @@ This project is a hands-on exploration of **Vision-Language-Action (VLA)** archi
 
 ---
 
-## Demo Videos
-
-VR APP
-
-https://github.com/user-attachments/assets/23806e4e-4318-4ccd-b5cc-56ed6c962815
-
-ACT demo
-
-https://github.com/user-attachments/assets/51f2aae1-5020-4cb8-a740-58e5d098d9fb
-
 
 ## 🎬 Demos & Interface
 
