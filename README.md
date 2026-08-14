@@ -20,7 +20,7 @@ This project is a hands-on exploration of **Vision-Language-Action (VLA)** archi
 ## 🎬 Demos & Interface
 <table>
   <tr>
-    <td width="25%" align="center" valign="center">
+    <td width="35%" align="center" valign="center">
       <h4>🖥️ Custom Unity VR App (Teleoperation)</h4>
       <video src="https://github.com/user-attachments/assets/23806e4e-4318-4ccd-b5cc-56ed6c962815" controls width="100%"></video>
       <br>
@@ -36,22 +36,3 @@ This project is a hands-on exploration of **Vision-Language-Action (VLA)** archi
 </table>
 
 
-
-<table>
-  <tr>
-    <td width="5%" align="center">
-      <h4>🖥️ Custom Unity VR App (Teleoperation)</h4>
-      <video src="https://github.com/user-attachments/assets/23806e4e-4318-4ccd-b5cc-56ed6c962815" controls width="100%"></video>
-      <br>
-      <em>Self-developed Unity VR interface with 6-DoF tracking and low-latency spatial control.</em>
-    </td>
-  </tr>
-  <tr>
-    <td width="35%" align="center">
-      <h4>🤖 ACT Policy Demo</h4>
-      <video src="https://github.com/user-attachments/assets/51f2aae1-5020-4cb8-a740-58e5d098d9fb" controls width="50%"></video>
-      <br>
-      <em>Autonomous closed-loop execution.</em>
-    </td>
-  </tr>
-</table>
