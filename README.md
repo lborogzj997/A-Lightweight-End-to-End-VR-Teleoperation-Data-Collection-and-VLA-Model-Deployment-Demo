@@ -9,7 +9,7 @@ This project is a hands-on exploration of **Vision-Language-Action (VLA)** archi
 
 ## ✨ Features
 
-- **Custom Unity VR App**: Self-developed VR teleoperation interface for intuitive, low-latency 6-DoF spatial control.
+- **Custom Unity VR App**: Self-developed VR teleoperation interface for intuitive, low-latency 7-DoF spatial control.
 - **Pinocchio Kinematics Engine**: Custom dual-arm robot controller providing linear Cartesian trajectory planning and kinematics resolution via [Pinocchio](https://github.com/stack-of-tasks/pinocchio).
 - **LeRobot Ecosystem**: Native integration with Hugging Face LeRobot for standardized dataset logging, training, and policy evaluation.
 - **Lightweight ACT Baseline**: Fast, closed-loop policy deployment for initial validation before scaling to larger VLA models.
