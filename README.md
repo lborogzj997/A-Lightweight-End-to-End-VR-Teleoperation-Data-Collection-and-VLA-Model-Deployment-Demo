@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/2431addc-6cc7-494e-843b-c3daf51cb8e0
+
 # 🤖 Dual-Arm VR Teleoperation & VLA Pipeline
 
 > **Full-stack dual-arm VR teleoperation, data collection, and VLA deployment pipeline powered by [LeRobot](https://github.com/huggingface/lerobot).**
@@ -23,7 +27,9 @@ https://github.com/user-attachments/assets/23806e4e-4318-4ccd-b5cc-56ed6c962815
 
 ACT demo
 
-https://github.com/user-attachments/assets/7c64e76b-b80a-4569-849d-8d6967ea89c0
+https://github.com/user-attachments/assets/51f2aae1-5020-4cb8-a740-58e5d098d9fb
+
+
 
 
 
