@@ -15,17 +15,9 @@ This project is a hands-on exploration of **Vision-Language-Action (VLA)** archi
 
 ---
 
-## 🏗️ System Overview
+## Demo Videos
 
-```text
-[ Custom Unity VR App ] ──(UDP/ROS)──> [ Pinocchio Kinematics Controller ]
-                                                 │ (Cartesian/Joint Control)
-                                                 ▼
-[ Dual-Arm Robot / Sim ] <──(Closed-Loop)─── [ LeRobot (Lightweight ACT) ]
-
-
-
-
+VR APP
 https://github.com/user-attachments/assets/23806e4e-4318-4ccd-b5cc-56ed6c962815
 
 
