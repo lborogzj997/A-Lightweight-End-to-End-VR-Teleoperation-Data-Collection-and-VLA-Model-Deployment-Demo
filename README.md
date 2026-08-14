@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/2431addc-6cc7-494e-843b-c3daf51cb8e0
-
 # 🤖 Dual-Arm VR Teleoperation & VLA Pipeline
 
 > **Full-stack dual-arm VR teleoperation, data collection, and VLA deployment pipeline powered by [LeRobot](https://github.com/huggingface/lerobot).**
@@ -24,7 +21,7 @@ This project is a hands-on exploration of **Vision-Language-Action (VLA)** archi
 
 <table>
   <tr>
-    <td width="65%" align="center" valign="top">
+    <td width="25%" align="center" valign="top">
       <h4>🖥️ Custom Unity VR App (Teleoperation)</h4>
       <video src="https://github.com/user-attachments/assets/23806e4e-4318-4ccd-b5cc-56ed6c962815" controls width="100%"></video>
       <br>
