@@ -39,7 +39,7 @@ This project is a hands-on exploration of **Vision-Language-Action (VLA)** archi
 
 <table>
   <tr>
-    <td width="25%" align="center">
+    <td width="5%" align="center">
       <h4>🖥️ Custom Unity VR App (Teleoperation)</h4>
       <video src="https://github.com/user-attachments/assets/23806e4e-4318-4ccd-b5cc-56ed6c962815" controls width="100%"></video>
       <br>
