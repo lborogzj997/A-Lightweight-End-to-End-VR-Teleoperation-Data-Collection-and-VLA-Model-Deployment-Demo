@@ -1,4 +1,3 @@
-
 # 🤖 Dual-Arm VR Teleoperation & VLA Pipeline
 
 > **Full-stack dual-arm VR teleoperation, data collection, and VLA deployment pipeline powered by [LeRobot](https://github.com/huggingface/lerobot).**
@@ -36,3 +35,31 @@ This project is a hands-on exploration of **Vision-Language-Action (VLA)** archi
 </table>
 
 
+## Demo Videos
+
+<table>
+  <!-- Row 1: VR App Demo -->
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h4>🖥️ Custom Unity VR App (Teleoperation)</h4>
+      <video src="https://github.com/user-attachments/assets/23806e4e-4318-4ccd-b5cc-56ed6c962815" controls width="100%"></video>
+      <br>
+      <em>Self-developed Unity VR interface with 6-DoF tracking and low-latency spatial control.</em>
+    </td>
+  </tr>
+  <!-- Row 2: Two ACT Demos side-by-side -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>🤖 ACT Policy Demo 1</h4>
+      <video src="https://github.com/user-attachments/assets/51f2aae1-5020-4cb8-a740-58e5d098d9fb" controls width="100%"></video>
+      <br>
+      <em>Autonomous closed-loop execution.</em>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>🤖 ACT Policy Demo 2</h4>
+      <video src="https://github.com/user-attachments/assets/37463f66-bac5-41e2-9261-6ca977a9c7ed" controls width="100%"></video>
+      <br>
+      <em>Autonomous closed-loop execution.</em>
+    </td>
+  </tr>
+</table>
