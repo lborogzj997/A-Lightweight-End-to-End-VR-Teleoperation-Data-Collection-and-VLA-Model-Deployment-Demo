@@ -56,7 +56,7 @@ This project is a hands-on exploration of **Vision-Language-Action (VLA)** archi
       <em>Autonomous closed-loop execution.</em>
     </td>
     <td width="50%" align="center" valign="top">
-      <h4>🤖 ACT Policy Demo ：Clean up desk by putting tape and pen into the box</h4>
+      <h4>🤖 Clean up desk by putting tape and pen into the box</h4>
       <video src="https://github.com/user-attachments/assets/37463f66-bac5-41e2-9261-6ca977a9c7ed" controls width="100%"></video>
       <br>
       <em>Autonomous closed-loop execution.</em>
