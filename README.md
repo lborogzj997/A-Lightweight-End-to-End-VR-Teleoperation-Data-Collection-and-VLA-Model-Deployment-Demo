@@ -24,7 +24,7 @@ This project is a hands-on exploration of **Vision-Language-Action (VLA)** archi
       <h4>🖥️ Custom Unity VR App (Teleoperation)</h4>
       <video src="https://github.com/user-attachments/assets/23806e4e-4318-4ccd-b5cc-56ed6c962815" controls width="100%"></video>
       <br>
-      <em>Self-developed Unity VR interface with 6-DoF tracking and low-latency spatial control.</em>
+      <em>Self-developed Unity VR interface.</em>
     </td>
     <td width="35%" align="center" valign="top">
       <h4>🤖 ACT Policy Demo</h4>
