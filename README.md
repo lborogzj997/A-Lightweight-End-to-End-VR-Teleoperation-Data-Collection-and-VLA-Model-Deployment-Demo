@@ -41,12 +41,15 @@ This project is a hands-on exploration of **Vision-Language-Action (VLA)** archi
       <video src="https://github.com/user-attachments/assets/37463f66-bac5-41e2-9261-6ca977a9c7ed" controls width="100%"></video>
       <br>
       <em>Autonomous closed-loop execution.</em>
-    </td>
-        <td width="50%" align="center" valign="top">
-      <h4>🤖 stack cups (alyaws as green cup base)</h4>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h4>🤖 Stack cups (always use two green cups as the base)</h4>
       <video src="https://github.com/user-attachments/assets/81f5cf1b-6629-4d63-b849-6b43d33c7934" controls width="100%"></video>
       <br>
       <em>Autonomous closed-loop execution.</em>
     </td>
   </tr>
+  
 </table>
